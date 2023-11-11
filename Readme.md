@@ -1,5 +1,5 @@
 
-# Development and Implementation of a Probabilistic Brain Atlas and Tissue Probability Models
+# Development of a Probabilistic Brain Atlas and Tissue Probability Models
 Authors: [Frederik Hartmann](https://github.com/Frederik-Hartmann) and Xavier Beltran Urbano
 
 
