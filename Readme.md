@@ -1,20 +1,8 @@
----
-layout: page
-title: A new brain atlas
-description: A brain atlas from scratch
-img: assets/projectImages/atlas/Dalle3_atlas.png
-importance: 2
-category: work
-toc:
-  sidebar: left
----
----
+
+# Development and Implementation of a Probabilistic Brain Atlas and Tissue Probability Models
 Authors: [Frederik Hartmann](https://github.com/Frederik-Hartmann) and Xavier Beltran Urbano
 
 
-
----
----
 ## Dataset
 
 The atlas was built out of 15 different T1 scans of the brain. In addition to the T1 scans, segmentation masks for background, cerebrospinal fluid (CSF), white matter (WM), and grey matter (GM) were provided. 
